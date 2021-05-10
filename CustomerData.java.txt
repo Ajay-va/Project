@@ -5,7 +5,8 @@ System.out.println(" good morning my dear ");
 }
 
 public static void main(String[] args){
-System.out.println("Hello customer ");
+
+hiiiii  
 
 System.out.println("Hello customer1 ");
 System.out.println("Hello customer2 ");
