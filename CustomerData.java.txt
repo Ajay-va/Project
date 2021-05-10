@@ -2,12 +2,16 @@ class CustomerData{
 
 public static void main(String[] args){
 System.out.println("Hello Employeee ");
-
+hiiiii  
 System.out.println("Hello Employeee ");
 System.out.println("Hello Employeee ");
 System.out.println("Hello Employeee ");
 System.out.println("Hello Employeee ");
 System.out.println("Hello Employeee ");
-
+System.out.println("Hello customer1 ");
+System.out.println("Hello customer2 ");
+System.out.println("Hello customer3 ");
+System.out.println("Hello customer4");
+System.out.println("Hello customer5 ");
 }
 }
