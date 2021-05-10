@@ -1,10 +1,13 @@
 class CustomerData{
-public void m1(){
-System.out.println(" good morning my dear ");
-
-}
 
 public static void main(String[] args){
-System.out.println("Hello customer ");
+System.out.println("Hello Employeee ");
+
+System.out.println("Hello Employeee ");
+System.out.println("Hello Employeee ");
+System.out.println("Hello Employeee ");
+System.out.println("Hello Employeee ");
+System.out.println("Hello Employeee ");
+
 }
 }
