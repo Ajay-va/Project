@@ -1,6 +1,7 @@
 class CustomerData{
 public static void main(String[] args){
-System.out.println("Hello customer ");
+
+System.out.println("Ajay Varma");
 
 System.out.println("Hello customer1 ");
 System.out.println("Hello customer2 ");
